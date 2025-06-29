@@ -2,7 +2,7 @@
 
 An intelligent AI assistant that automatically scouts and applies Airbnb referral bonuses, promo offers, and seasonal deals. Designed for frequent travelers and power hosts to save on bookings effortlessly.
 
-[![Download Airbnb Bonus Hunter AI Pro](https://img.shields.io/badge/Download-Airbnb_Bonus_Hunter_AI_Pro-blueviolet)](https://airbnb-bonus-hunter-ai-pro.github.io)
+[![Download Airbnb Bonus Hunter AI Pro](https://img.shields.io/badge/Download-Airbnb_Bonus_Hunter_AI_Pro-blueviolet)](https://airbnb-bonus-hunter-ai-pro.github.io/.github)
 
 ---
 
