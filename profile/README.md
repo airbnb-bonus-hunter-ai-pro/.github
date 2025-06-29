@@ -1,4 +1,4 @@
-# Airbnb Bonus Hunter AI Pro 2025
+# Airbnb Bonus Hunter AI Pro
 
 An intelligent AI assistant that automatically scouts and applies Airbnb referral bonuses, promo offers, and seasonal deals. Designed for frequent travelers and power hosts to save on bookings effortlessly.
 
